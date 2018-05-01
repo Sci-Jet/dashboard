@@ -20,15 +20,15 @@
       "prefix": "app",
       "styles": [
         "styles.css",
-        "../node_modules/perfect-scrollbar/css/perfect-scrollbar.css",
         "./assets/css/demo.css",
-        "./assets/scss/material-dashboard.scss"
+        "./assets/scss/material-dashboard.scss",
+        "../node_modules/perfect-scrollbar/css/perfect-scrollbar.css"
       ],
       "scripts": [
         "../node_modules/jquery/dist/jquery.js",
         "../node_modules/popper.js/dist/umd/popper.js",
-        "../node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js",
         "../node_modules/bootstrap-material-design/dist/js/bootstrap-material-design.min.js",
+        "../node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js",
         "../node_modules/chartist/dist/chartist.js",
         "../node_modules/chartist-plugin-zoom/dist/chartist-plugin-zoom.js",
         "../node_modules/jqvmap/dist/jquery.vmap.min.js",
